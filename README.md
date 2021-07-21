@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [(https://github.com/JustinJoe/single-price-grid-component)]
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github Repo](https://github.com/JustinJoe/single-price-grid-component)
+- Live Site URL: [Single Price Grid Component](https://single-price-grid-component-two-psi.vercel.app/)
 
 ## My process
 
